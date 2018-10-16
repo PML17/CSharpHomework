@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<OrderService>
+  <Order id="1">
+    <ClientName>LULU</ClientName>
+    <OrderDetails>
+      <ProductNum>10</ProductNum>
+      <ProductName>bread</ProductName>
+      <ProductPrice>2.5</ProductPrice>
+
+    </OrderDetails>
+    <OrderDetails>
+      <ProductNum>8</ProductNum>
+      <ProductName>candy</ProductName>
+      <ProductPrice>19.8</ProductPrice>
+
+    </OrderDetails>
+    <OrderDetails>
+      <ProductNum>7</ProductNum>
+      <ProductName>pen</ProductName>
+      <ProductPrice>3.6</ProductPrice>
+
+    </OrderDetails>
+    <OrderDetails>
+      <ProductNum>8</ProductNum>
+      <ProductName>apple</ProductName>
+      <ProductPrice>1</ProductPrice>
+
+    </OrderDetails>
+
+  </Order>
+  <Order id="2">
+    <ClientName>LVLV</ClientName>
+    <OrderDetails>
+      <ProductNum>1</ProductNum>
+      <ProductName>book</ProductName>
+      <ProductPrice>4999</ProductPrice>
+
+    </OrderDetails>
+    <OrderDetails>
+      <ProductNum>1</ProductNum>
+      <ProductName>shoes</ProductName>
+      <ProductPrice>5999</ProductPrice>
+
+    </OrderDetails>
+    <OrderDetails>
+      <ProductNum>2</ProductNum>
+      <ProductName>clothes</ProductName>
+      <ProductPrice>199</ProductPrice>
+
+    </OrderDetails>
+
+  </Order>
+  <Order id="3">
+    <ClientName>QQ</ClientName>
+    <OrderDetails>
+      <ProductNum>2</ProductNum>
+      <ProductName>Mac</ProductName>
+      <ProductPrice>388</ProductPrice>
+
+    </OrderDetails>
+    <OrderDetails>
+      <ProductNum>5</ProductNum>
+      <ProductName>pencil</ProductName>
+      <ProductPrice>189</ProductPrice>
+
+    </OrderDetails>
+    56
+  </Order>
+  <Order id="4">
+    <ClientName>YY</ClientName>
+    <OrderDetails>
+      <ProductNum>5</ProductNum>
+      <ProductName>ice cream</ProductName>
+      <ProductPrice>3.5</ProductPrice>
+
+    </OrderDetails>
+    <OrderDetails>
+      <ProductNum>10</ProductNum>
+      <ProductName>pencilbox</ProductName>
+      <ProductPrice>5.2</ProductPrice>
+
+    </OrderDetails>
+    <OrderDetails>
+      <ProductNum>55</ProductNum>
+      <ProductName>milk</ProductName>
+      <ProductPrice>0.5</ProductPrice>
+
+    </OrderDetails>
+    <OrderDetails>
+      <ProductNum>8</ProductNum>
+      <ProductName>orange</ProductName>
+      <ProductPrice>7.9</ProductPrice>
+
+    </OrderDetails>
+    <OrderDetails>
+      <ProductNum>8</ProductNum>
+      <ProductName>watermelon</ProductName>
+      <ProductPrice>5.9</ProductPrice>
+
+    </OrderDetails>
+
+  </Order>
+
+</OrderService>
