@@ -1,0 +1,37 @@
+C:\Users\xxx\Documents\Tencent Files\1140353932\FileRecv\虾皮PP\虾皮PP\虾皮PP\obj\Debug\PP.csprojResolveAssemblyReference.cache
+C:\Users\xxx\Documents\Tencent Files\1140353932\FileRecv\虾皮PP\虾皮PP\虾皮PP\obj\Debug\PP.PP.resources
+C:\Users\xxx\Documents\Tencent Files\1140353932\FileRecv\虾皮PP\虾皮PP\虾皮PP\obj\Debug\虾皮PP.Properties.Resources.resources
+C:\Users\xxx\Documents\Tencent Files\1140353932\FileRecv\虾皮PP\虾皮PP\虾皮PP\obj\Debug\PP.csproj.GenerateResource.Cache
+C:\Users\xxx\Documents\Tencent Files\1140353932\FileRecv\虾皮PP\虾皮PP\虾皮PP\obj\Debug\PP.csproj.CoreCompileInputs.cache
+C:\Users\xxx\Documents\Tencent Files\1140353932\FileRecv\虾皮PP\虾皮PP\虾皮PP\bin\Debug\虾皮PP.exe.config
+C:\Users\xxx\Documents\Tencent Files\1140353932\FileRecv\虾皮PP\虾皮PP\虾皮PP\bin\Debug\虾皮PP.exe
+C:\Users\xxx\Documents\Tencent Files\1140353932\FileRecv\虾皮PP\虾皮PP\虾皮PP\bin\Debug\虾皮PP.pdb
+C:\Users\xxx\Documents\Tencent Files\1140353932\FileRecv\虾皮PP\虾皮PP\虾皮PP\obj\Debug\虾皮PP.exe
+C:\Users\xxx\Documents\Tencent Files\1140353932\FileRecv\虾皮PP\虾皮PP\虾皮PP\obj\Debug\虾皮PP.pdb
+C:\Users\xxx\Documents\Tencent Files\1140353932\FileRecv\虾皮PP\虾皮PP\虾皮PP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\xxx\Documents\Tencent Files\1140353932\FileRecv\虾皮PP\虾皮PP\虾皮PP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\12966\Desktop\虾皮PP\虾皮PP\虾皮PP\obj\Debug\PP.csprojAssemblyReference.cache
+C:\Users\12966\Desktop\虾皮PP\虾皮PP\虾皮PP\obj\Debug\PP.PP.resources
+C:\Users\12966\Desktop\虾皮PP\虾皮PP\虾皮PP\obj\Debug\虾皮PP.Properties.Resources.resources
+C:\Users\12966\Desktop\虾皮PP\虾皮PP\虾皮PP\obj\Debug\PP.csproj.GenerateResource.cache
+C:\Users\12966\Desktop\虾皮PP\虾皮PP\虾皮PP\obj\Debug\PP.csproj.CoreCompileInputs.cache
+C:\Users\12966\Desktop\虾皮PP\虾皮PP\虾皮PP\obj\Debug\虾皮PP.exe
+C:\Users\12966\Desktop\虾皮PP\虾皮PP\虾皮PP\obj\Debug\虾皮PP.pdb
+C:\Users\12966\Desktop\虾皮PP\虾皮PP\虾皮PP\bin\Debug\虾皮PP.exe.config
+C:\Users\12966\Desktop\虾皮PP\虾皮PP\虾皮PP\bin\Debug\虾皮PP.exe
+C:\Users\12966\Desktop\虾皮PP\虾皮PP\虾皮PP\bin\Debug\虾皮PP.pdb
+C:\Users\12966\Desktop\虾皮PP\虾皮PP\虾皮PP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\12966\Desktop\虾皮PP\虾皮PP\虾皮PP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\12966\Desktop\虾皮PP\虾皮PP\虾皮PP\obj\Debug\PP.csproj.CopyComplete
+C:\Users\PML\Documents\Tencent Files\635014789\FileRecv\虾皮PP\虾皮PP\bin\Debug\虾皮PP.exe.config
+C:\Users\PML\Documents\Tencent Files\635014789\FileRecv\虾皮PP\虾皮PP\bin\Debug\虾皮PP.exe
+C:\Users\PML\Documents\Tencent Files\635014789\FileRecv\虾皮PP\虾皮PP\bin\Debug\虾皮PP.pdb
+C:\Users\PML\Documents\Tencent Files\635014789\FileRecv\虾皮PP\虾皮PP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PML\Documents\Tencent Files\635014789\FileRecv\虾皮PP\虾皮PP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PML\Documents\Tencent Files\635014789\FileRecv\虾皮PP\虾皮PP\obj\Debug\PP.csprojResolveAssemblyReference.cache
+C:\Users\PML\Documents\Tencent Files\635014789\FileRecv\虾皮PP\虾皮PP\obj\Debug\PP.PP.resources
+C:\Users\PML\Documents\Tencent Files\635014789\FileRecv\虾皮PP\虾皮PP\obj\Debug\虾皮PP.Properties.Resources.resources
+C:\Users\PML\Documents\Tencent Files\635014789\FileRecv\虾皮PP\虾皮PP\obj\Debug\PP.csproj.GenerateResource.Cache
+C:\Users\PML\Documents\Tencent Files\635014789\FileRecv\虾皮PP\虾皮PP\obj\Debug\PP.csproj.CoreCompileInputs.cache
+C:\Users\PML\Documents\Tencent Files\635014789\FileRecv\虾皮PP\虾皮PP\obj\Debug\虾皮PP.exe
+C:\Users\PML\Documents\Tencent Files\635014789\FileRecv\虾皮PP\虾皮PP\obj\Debug\虾皮PP.pdb
